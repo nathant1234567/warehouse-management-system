@@ -1,4 +1,4 @@
-# Warehouse Management System for 1st year assignment
+# Warehouse Inventory & Order Management System (Java + SQLite)
 
 ## Overview
 
